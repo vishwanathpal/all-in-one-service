@@ -1,10 +1,10 @@
-package com.db.pract.allInOne;
+package com.db.aoapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AllInOneApplicationTests {
+class AoapplicationApplicationTests {
 
 	@Test
 	void contextLoads() {
